@@ -1,0 +1,20 @@
+{
+  "name": "abhishek_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "cypress": "^6.8.0"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1",
+    "cypress-wait-until": "^1.7.1",
+    "cypress-xpath": "^1.6.2"
+  },
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
